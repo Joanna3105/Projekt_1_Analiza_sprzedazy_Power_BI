@@ -11,10 +11,10 @@ Projekt obejmuje interaktywny dashboard analizujący:
 
 ## Wykorzystane narzędnia
 
-✅ Power BI,
-✅ Power Query,
-✅ DAX,
-✅ modelowanie danych.
+- Power BI,
+- Power Query,
+- DAX,
+- modelowanie danych.
 
 ## Zakres prac
 
