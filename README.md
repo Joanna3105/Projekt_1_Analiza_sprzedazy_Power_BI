@@ -9,7 +9,7 @@ Projekt obejmuje interaktywny dashboard analizujący:
 - produkty,
 - transport.
 
-## Wykorzystane narzędnia
+## W projekcie wykorzystano
 
 - Power BI,
 - Power Query,
